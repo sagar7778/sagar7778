@@ -1,4 +1,3 @@
-![logo](https://github.com/sagar7778/sagar7778/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Koshti Sagar</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
